@@ -1,0 +1,10 @@
+sudo pip install keras
+sudo pip install tensorflow
+sudo pip install tensorflow
+sudo pip install imutils
+sudo pip install opencv-python
+sudo dnf install redhat-rpm-config
+sudo dnf install python2-devel
+sudo pip install matplotlib
+sudo pip install -U scikit-learn
+
